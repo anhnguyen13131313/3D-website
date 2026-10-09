@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "cinematic-web-experiences": {
+      "source": "amrrs/cinematic-webscroll-frontend-skill",
+      "sourceType": "github",
+      "skillPath": ".codex/skills/cinematic-web-experiences/SKILL.md",
+      "computedHash": "9cbef7f9dbf44fc6d073002cd2c45a858764f6366daa1a478cf26b293868b082"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "106acf230014cbb43ca34e6410371321b56ca742f9ee0442e8ec05bf02eb0384"
+    },
+    "threejs-r3f": {
+      "source": "cesartevisual/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-r3f/SKILL.md",
+      "computedHash": "c49e6e0fab4f449909556e1371e82c4dbabd58800064a1a14db64712587dc718"
+    }
+  }
+}
